@@ -45,3 +45,9 @@ Well-known language, implementations in any language, human-readable and easy to
 I think it's an important topic, and that having legal terms in this way in every project could be **so** useful.
 
 Be free to make pull requests, write issues and everything :D
+
+## Duplicated? ##
+
+I searched and talked with some people, no one knew nothing similar to this. I could be wrong, anyway.
+
+If it's duplicated, let me know in an issue :) Thanks!
