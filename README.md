@@ -1,6 +1,6 @@
 # Legalfile Proposal #
 
-Legalfile - A proposal for defining software legal terms in an structured way.
+Legalfile - A proposal for defining software legal terms in a structured way.
 
 ## Why ##
 
