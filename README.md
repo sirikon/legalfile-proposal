@@ -12,7 +12,7 @@ For example: "Is commercial use forbidden for any of the installed packages?". "
 
 All this could be done directly making a database of simplified terms for the most known licenses (Something that tldrlegal.com does well), but to enable this level of automation, defining this terms inside a file in our projects could ease the process a lot, and having an open standard for doing this would be even better.
 
-We could even build our own license with some builder, that outputs a `LICENSE.txt` and a `Licensefile`.
+We could even build our own license with some builder, that outputs a `LICENSE.txt` and a `Legalfile`.
 
 ## The Legalfile ##
 
