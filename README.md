@@ -2,6 +2,8 @@
 
 Legalfile - A proposal for defining software legal terms in a structured way.
 
+First of all, **I'm not a lawyer**, and my knowledge on legal terms is pretty limited. This was motivated by an open-space session in WeCodeFest 2018 and talking with more experienced people, I thought that this could be useful, exposed the idea, and was well received.
+
 ## Why ##
 
 Today, software licensing is really important, and should be done **well**. But we're used to search for a package that fit our needs and just use it without seeing the software's license, which is a plain text file inside the repository.
